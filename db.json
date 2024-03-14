@@ -1,40 +1,11 @@
 {
-    "user": [
+  "posts": [
     {
-        "userId": "user-01t8r73",
-        "profileIdx" : "0",
-        "email": "test@test.com",
-        "telNo": "010-1234-1234",
-        "officeTelNo" : "",
-        "faxTelNo" : "",
-        "keyStatus": "0"
-    },
-    {
-        "userId": "user-014bda3",
-        "profileIdx" : "0",
-        "email": "test@test.com",
-        "telNo": "010-1234-1234",
-        "officeTelNo" : "",
-        "faxTelNo" : "",
-        "keyStatus": "0"
-    },
-    {
-        "userId": "user-01t1ffg43",
-        "profileIdx" : "0",
-        "email": "test@test.com",
-        "telNo": "010-1234-1234",
-        "officeTelNo" : "",
-        "faxTelNo" : "",
-        "keyStatus": "0"
-    },
-    {
-        "userId": "user-0123sg3",
-        "profileIdx" : "0",
-        "email": "test@test.com",
-        "telNo": "010-1234-1234",
-        "officeTelNo" : "",
-        "faxTelNo" : "",
-        "keyStatus": "0"
+      "id": 1,
+      "title": "hello"
     }
-    ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
